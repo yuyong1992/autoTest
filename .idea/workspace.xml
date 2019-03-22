@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16820f40-32fb-435a-8c3b-4be922129366" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="894505158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="ini" value="12" />
+          <entry key="log" value="3" />
+          <entry key="png" value="12" />
+          <entry key="py" value="101" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="12" />
+          <entry key="Ini" value="10" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="101" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="73" />
+          <entry key="dummy" value="32" />
+          <entry key="ini" value="169" />
+          <entry key="py" value="20025" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="146" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Python" value="20098" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/opt_add_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4775">
+              <caret line="193" selection-start-line="193" selection-end-line="207" />
+              <folding>
+                <element signature="e#16#67#0" expanded="true" />
+                <marker date="1552289338879" expanded="true" signature="240:241" ph="..." />
+                <marker date="1552289338879" expanded="true" signature="240:245" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/cases/test_opt_add.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3900">
+              <caret line="161" column="47" selection-start-line="161" selection-start-column="47" selection-end-line="161" selection-end-column="47" />
+              <folding>
+                <element signature="e#16#31#0" expanded="true" />
+                <marker date="1552657388197" expanded="true" signature="1416:1421" ph="..." />
+                <marker date="1552657388197" expanded="true" signature="16756:16762" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/framework/base_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3800">
+              <caret line="156" column="67" selection-start-line="156" selection-start-column="67" selection-end-line="156" selection-end-column="67" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="19" column="99" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/run_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding>
+                <element signature="e#16#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testProject/qrcodeCreater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autoSinnetCloud/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>info</find>
+      <find>logger</find>
+      <find>showCase</find>
+      <find>text</find>
+      <find>autoRB</find>
+      <find>time</find>
+      <find>indx</find>
+      <find>div[6]</find>
+      <find>/html/body/div[</find>
+      <find>/html/body/div\[-1]</find>
+      <find>/html/body/div\[0]</find>
+      <find>/html/body/div\[..]</find>
+      <find>wait</find>
+      <find>断言</find>
+      <find>&quot;&quot;</find>
+      <find>sleep</find>
+      <find>submit</find>
+      <find>except AssertionError</find>
+      <find>//*[@id=&quot;app&quot;]/div/div[3]/div/div[1]/form/div[4]</find>
+      <find>data[&quot;客户需求&quot;] == &quot;5&quot;</find>
+      <find>error</find>
+      <find>空值</find>
+      <find>err</find>
+      <find>//*[@id=&quot;app&quot;]/div[1]/div[1]/div/div/ul/li[3]/a</find>
+      <find>商机名称</find>
+      <find>OptAdd</find>
+      <find>addpage</find>
+      <find>客户需求</find>
+      <find>正在输入' 客户名称 '</find>
+      <find>18811133441</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>用户名</replace>
+      <replace>手机号</replace>
+      <replace>logger1</replace>
+      <replace>autoINS</replace>
+      <replace>index</replace>
+      <replace>/html/body/div\[0]</replace>
+      <replace>/html/body/div\[last()]</replace>
+      <replace>except (AssertionError, AttributeError)</replace>
+      <replace>&quot; &quot;</replace>
+      <replace>//*[@id=&quot;app&quot;]/header/div/div[1]/div[2]/ul/li[2]/a</replace>
+      <replace>线索名称</replace>
+      <replace>LeadEdit</replace>
+      <replace>editpage</replace>
+      <replace>18811133446</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Code\PyCharm\autoTest\autoINS</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/autoRB/pages/login_rb.py" />
+        <option value="$PROJECT_DIR$/autoRB/pages/login.py" />
+        <option value="$PROJECT_DIR$/autoRB/cases/run_test.py" />
+        <option value="$PROJECT_DIR$/autoRB/tools/models/handle_ecxel.py" />
+        <option value="$PROJECT_DIR$/autoRB/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/autoRB/tools/models/excel_to_dic.py" />
+        <option value="E:/python36/Lib/HTMLTestReportCN.py" />
+        <option value="$PROJECT_DIR$/autoRB/framework/logger.py" />
+        <option value="$PROJECT_DIR$/autoRB/cases/test_test.py" />
+        <option value="$PROJECT_DIR$/autoRB/test.py" />
+        <option value="$PROJECT_DIR$/autoRB/framework/base_page.py" />
+        <option value="$PROJECT_DIR$/autoRB/run_test.py" />
+        <option value="$PROJECT_DIR$/autoRB/pages/dashboard_page.py" />
+        <option value="$PROJECT_DIR$/autoRB/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/autoRB/cases/test_login.py" />
+        <option value="$PROJECT_DIR$/autoRB/cases/test_dashboard.py" />
+        <option value="$PROJECT_DIR$/autoRB/config/config.ini" />
+        <option value="$PROJECT_DIR$/autoRB/pages/opt_add.py" />
+        <option value="$PROJECT_DIR$/autoINS/cases/test_login.py" />
+        <option value="$PROJECT_DIR$/autoRB/pages/opt_add_page.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/cases/test_login.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/test.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/framework/logger.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/pages/so/lead_edit_page.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/pages/so/so_lead_edit_page.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/cases/test_so_lead_edit.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/framework/base_page.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/pages/opt_add_page.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/run_test.py" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/config/config.ini" />
+        <option value="$PROJECT_DIR$/autoSinnetCloud/cases/test_opt_add.py" />
+        <option value="$PROJECT_DIR$/testProject/qrcodeCreater.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="autoTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="autoRB" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/utils.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="autoTest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="autoTest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\PyCharm\autoTest\autoSinnetCloud\data" />
+      <recent name="F:\Code\PyCharm\autoTest\autoSinnetCloud\report" />
+      <recent name="F:\Code\PyCharm\autoTest\autoRB" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\PyCharm\autoTest\autoSinnetCloud\pages\so" />
+      <recent name="F:\Code\PyCharm\autoTest\autoSinnetCloud\data\testdata" />
+      <recent name="F:\Code\PyCharm\autoTest" />
+      <recent name="F:\Code\PyCharm\autoTest\autoRB" />
+      <recent name="F:\Code\PyCharm\autoTest\autoRB\cases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.qrcodeCreater">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Code\PyCharm\autoTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qrcodeCreater" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Code\PyCharm\autoTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProject/qrcodeCreater.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Code\PyCharm\autoTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autoSinnetCloud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autoSinnetCloud/run_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_opt_add.OptAddErrInTime" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autoSinnetCloud/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_opt_add.OptAddErrInTime&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_opt_add.OptAddErrSub.test_2_opt_add_err" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autoSinnetCloud/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_opt_add.OptAddErrSub.test_2_opt_add_err&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_opt_add.OptAddSuccess" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autoSinnetCloud/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_opt_add.OptAddSuccess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_test (1)" />
+      <item itemvalue="Python tests.Unittests for test_opt_add.OptAddErrSub.test_2_opt_add_err" />
+      <item itemvalue="Python tests.Unittests for test_opt_add.OptAddErrInTime" />
+      <item itemvalue="Python tests.Unittests for test_opt_add.OptAddSuccess" />
+      <item itemvalue="Python.qrcodeCreater" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.qrcodeCreater" />
+        <item itemvalue="Python.run_test (1)" />
+        <item itemvalue="Python tests.Unittests for test_opt_add.OptAddSuccess" />
+        <item itemvalue="Python tests.Unittests for test_opt_add.OptAddErrInTime" />
+        <item itemvalue="Python tests.Unittests for test_opt_add.OptAddErrSub.test_2_opt_add_err" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16820f40-32fb-435a-8c3b-4be922129366" name="Default Changelist" comment="" />
+      <created>1549965540604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549965540604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_login_LinkClick_test_3_display_pwd - 2019.02.20 at 11h 03m 10s.xml">
+      <configuration name="Unittests for test_login.LinkClick.test_3_display_pwd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.02.20 at 14h 13m 53s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.02.20 at 14h 37m 25s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_LinkClick_test_4_link_click - 2019.02.20 at 15h 08m 13s.xml">
+      <configuration name="Unittests for test_login.LinkClick.test_4_link_click" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddSuccess - 2019.02.21 at 09h 07m 26s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddSuccess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddSuccess_test_2_opt_add_err - 2019.02.22 at 15h 43m 53s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddSuccess.test_2_opt_add_err" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddSuccess_test_1_opt_add_success - 2019.02.26 at 11h 31m 56s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddSuccess.test_1_opt_add_success" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddErrSub_test_2_opt_add_err - 2019.02.26 at 13h 46m 02s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddErrSub.test_2_opt_add_err" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddErrInTime - 2019.02.26 at 17h 48m 46s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddErrInTime" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_opt_add_OptAddSuccess - 2019.03.11 at 16h 17m 21s.xml">
+      <configuration name="Unittests for test_opt_add.OptAddSuccess" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16754478" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49947312" weight="0.164859" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50052685" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.5444685" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49947312" weight="0.23318872" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.48590022" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/autoRB/data/img/screenshots/201902151433.png" />
+    <entry file="file://$PROJECT_DIR$/autoRB/data/img/screenshots/201902151432.png" />
+    <entry file="file://$PROJECT_DIR$/autoRB/data/img/screenshots/201902151426.png" />
+    <entry file="file://$PROJECT_DIR$/autoRB/data/img/screenshots/201902151424.png" />
+    <entry file="file://$PROJECT_DIR$/autoRB/data/img/screenshots/201902151659.png" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="142" column="33" lean-forward="true" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/tools/models/excel_to_dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="1817" column="45" lean-forward="true" selection-start-line="1817" selection-start-column="45" selection-end-line="1817" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3275">
+          <caret line="146" column="41" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/cases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/pages/dashboard_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/cases/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/cases/test_dashboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoRB/pages/opt_add_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/cases/test_dashboard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/tools/models/excel_to_dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/data/img/screenshots/201902211356.png" />
+    <entry file="file://E:/python36/Lib/HTMLTestReportCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="591" selection-start-line="591" selection-end-line="591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="648" selection-start-line="648" selection-end-line="648" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/cases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1775">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/data/img/screenshots/201902251844.png" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/data/img/screenshots/201902251845.png" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/report/screenshots/201902261730.png" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/dashboard_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/report/report/report20190307101310.html" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/report/report/report20190307101841.html" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/so/so_lead_edit_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/cases/test_so_lead_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="377" column="8" selection-start-line="377" selection-start-column="8" selection-end-line="377" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/debug.log" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/opt_add_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4775">
+          <caret line="193" selection-start-line="193" selection-end-line="207" />
+          <folding>
+            <element signature="e#16#67#0" expanded="true" />
+            <marker date="1552289338879" expanded="true" signature="240:241" ph="..." />
+            <marker date="1552289338879" expanded="true" signature="240:245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/cases/test_opt_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="161" column="47" selection-start-line="161" selection-start-column="47" selection-end-line="161" selection-end-column="47" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+            <marker date="1552657388197" expanded="true" signature="1416:1421" ph="..." />
+            <marker date="1552657388197" expanded="true" signature="16756:16762" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3800">
+          <caret line="156" column="67" selection-start-line="156" selection-start-column="67" selection-end-line="156" selection-end-column="67" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="19" column="99" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoSinnetCloud/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testProject/qrcodeCreater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
