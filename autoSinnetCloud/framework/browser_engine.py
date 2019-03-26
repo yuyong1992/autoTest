@@ -21,7 +21,7 @@ class BrowserEngine(object):
     def open_browser(self, driver):
         config = ConfigParser()
         # file_path = os.path.dirname(os.getcwd()) + '/config/config.ini'
-        file_path = os.path.dirname(os.path.abspath('.')) + '/autoSinnetCloud/config/config.ini'
+        file_path = os.path.dirname(os.path.abspath('.')) + 'autoTest/autoSinnetCloud/config/config.ini'
         # file_path = 'F:/Code/PyCharm/autoTest/autoSinnetCloud/config/config.ini'
         config.read(file_path)
         # logger.info(file_path)
